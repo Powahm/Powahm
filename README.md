@@ -1,8 +1,8 @@
 # Hi, I’m Roshan Prabhu &nbsp;<img src="Assests/Hi.gif" width="30px"> 
  (aka @Powahm)
 
-<img align="left" alt = "hello" src="Assests/hello.gif" width="250" style= "margin-right: 150; height: 275; width: 250;"/> 
-<p style="margin: 0">
+<img align="right" alt = "hello" src="Assests/hello.gif" width="225"/> 
+<p>
 I am a first year undergraduate at the University of Sheffield. A budding Software Engineer with his interests in AI and Robotics. Reason? I'm lazy and I want someone to do the work for me. Humans need money <img src="Assests/money-cash.gif" width="30" style="margin:-7 0"> , but... AI is free if you build it <img src="Assests/emoji-smiley.gif" width="25" style="margin:-7 0">
 </p>
 

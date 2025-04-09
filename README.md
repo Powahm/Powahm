@@ -1,16 +1,19 @@
 # Hi, I’m Roshan Prabhu &nbsp;<img src="Assests/Hi.gif" width="30px"> 
  (aka @Powahm)
 
-<img align="left" alt = "hello" src="Assests/hello.gif" width="250" style= "margin-right: 150"/> 
-<p style="margin:50 0">
+<img align="left" alt = "hello" src="Assests/hello.gif" width="250" style= "margin-right: 150; height: 275; width: 250;"/> 
+<p style="margin: 0">
 I am a first year undergraduate at the University of Sheffield. A budding Software Engineer with his interests in AI and Robotics. Reason? I'm lazy and I want someone to do the work for me. Humans need money <img src="Assests/money-cash.gif" width="30" style="margin:-7 0"> , but... AI is free if you build it <img src="Assests/emoji-smiley.gif" width="25" style="margin:-7 0">
 </p>
+
+<br>
 
 - 👀 I’m interested in Computer Vision, UI/UX Design  
 - 🌱 I’m currently learning YOLO algorithm & Java
 - 💞️ I’m looking to collaborate on python projects, game dev, UI/UX building, anything really just hmu
 - ⚡ Also experienced in: notion, upbase, project management, webhooks (a bit)
 
+<br>
 
 ### > My Tech Stack <img src="Assests/chatting.gif" width="30" style="margin:-7 0"> 
 

@@ -2,7 +2,7 @@
  (aka @Powahm)
 
 <img align="left" alt = "hello" src="Assests/hello.gif" width="250" style= "margin-right: 150; height: 275; width: 250;"/> 
-<p style="margin: 0">
+<p>
 I am a first year undergraduate at the University of Sheffield. A budding Software Engineer with his interests in AI and Robotics. Reason? I'm lazy and I want someone to do the work for me. Humans need money <img src="Assests/money-cash.gif" width="30" style="margin:-7 0"> , but... AI is free if you build it <img src="Assests/emoji-smiley.gif" width="25" style="margin:-7 0">
 </p>
 
@@ -37,16 +37,16 @@ I am a first year undergraduate at the University of Sheffield. A budding Softwa
 ### > Some Interesting Projects <img src="Assests/woah-look-at-that-look.gif" width="40" style="margin:-7 0"> 
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](#)
-[![](https://img.shields.io/badge/-📝%20Monte%20Carlo%20Sims-000)](#)
-[![](https://img.shields.io/badge/-♟️%20Knights%20Tour%20DFS-000)](#)
-[![](https://img.shields.io/badge/-🎮%20FPSP%20Unity%20Game-000)](#)
+[![](https://img.shields.io/badge/-📝%20Monte%20Carlo%20Sims-000)](https://github.com/Powahm/PI-Estimation-using-MC)
+[![](https://img.shields.io/badge/-♟️%20Knights%20Tour%20DFS-000)](https://github.com/Powahm/Knights_Tour_DFS)
+[![](https://img.shields.io/badge/-🎮%20FPSP%20Unity%20Game-000)](https://powahmello.itch.io/fpsp)
 
 ### > Let's Collaborate <img src="Assests/Handshake.gif" width="75" style="margin:-8 0"> 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/roshan-prabhu-29587a2b4/)
 
 ### > Fun Fact <img src="Assests/camera.gif" width="30" style="margin:-7 0"> 
 I am also a photographer - check out my work 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([#](https://www.instagram.com/_powah_/?hl=en))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([#](https://www.instagram.com/_powah_/))
 
 
 

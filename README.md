@@ -35,6 +35,7 @@ I am a first year undergraduate at the University of Sheffield. A budding Softwa
 
 ### > Some Interesting Projects <img src="Assests/woah-look-at-that-look.gif" width="40" style="margin:-7 0"> 
 
+[![](https://img.shields.io/badge/-📱%20Trend%20Swipe-000)](https://github.com/Rifat-R/hacksheffield10)
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](#)
 [![](https://img.shields.io/badge/-📝%20Monte%20Carlo%20Sims-000)](https://github.com/Powahm/PI-Estimation-using-MC)
 [![](https://img.shields.io/badge/-♟️%20Knights%20Tour%20DFS-white)](https://github.com/Powahm/Knights_Tour_DFS)

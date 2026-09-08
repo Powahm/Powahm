@@ -18,69 +18,35 @@ What I actually want is one AI that knows enough about me to run the whole job. 
 ## What I build
 
 ### Deskmate
-
-**The agent works the same editor you do, and the accept button is the one thing it cannot reach.**
-
 `WebMCP` `React` `no backend` · [**Try it**](https://deskmate-cc.vercel.app) · [Code](https://github.com/Powahm/webmcp2026)
 
 A creator's workstation in a browser tab: script, teleprompter, camera, editor. Seventeen tools read the page, eleven propose changes. I built the WebMCP layer and worked across the whole app, with one teammate.
 
-<details>
-<summary><b>The consent boundary, which is the part I would want to talk about</b></summary>
-
-Every accept path refuses anything that is not a trusted user event, the same test the browser uses to tell a click from a script. So the agent can compose an animated title card, put a sound under it, reframe to 9:16 and list every hesitation in the take, in four calls, and still cannot put one frame into your video.
-
-Nothing is uploaded and there is no backend, because the state that makes an agent useful here never leaves the page: which teleprompter line you are on mid-take, whether the camera is rolling, which words sit under the playhead.
-
-</details>
 
 ### AI Star Arena
-
-**You write a Python function to fly a spaceship, and then you are not allowed to touch it. Fly into the storm and that is your code's fault, not your reflexes.**
 
 `Godot` `IBM Granite` `Ollama` `RAG` · [**Play it**](https://olbailey.itch.io/ai-star-arena) · [Demo](https://www.youtube.com/watch?v=BjCdVldTSDg)
 
 Built for IBM. Your ship moves, fires and allocates its own power across engines, shields, scanners and weapons while a nebula storm closes in around the map. I was scrum lead and engineering lead for seven of us over three months, 200+ hours each. **IBM asked to reuse it for hackathons across universities.**
 
-<details>
-<summary><b>The assistant I built into the in-game editor</b></summary>
-
-IBM Granite running locally through Ollama, RAG over our own ship API, guardrails on top. It answers from the real API surface instead of inventing methods that do not exist, and nothing leaves the machine. The game will even fetch Ollama and pull the model for you from its own settings page, so you never have to go and set anything up yourself.
-
-</details>
 
 ### TrendSwipe
-
-**The same swipe you already know, except instead of dates you get clothes, and at the end of it your cart is full.**
-
 `Gemini` `Supabase` `Grafana` · [Code](https://github.com/Rifat-R/hacksheffield10)
 
 Built in 24 hours at HackSheffield with a team of four, which I led. **It won the Grafana Labs Prize, top among 50 teams.** The dashboards the judges watched during our demo were fed live by the same Supabase stream the app was writing to.
 
 ### Ikiru
 
-**A raccoon guards your screen time, and you have to negotiate with him for more.**
-
 `Android` `co-founded`
 
-Per-app guards, a global social block, a timer, app stats, widgets and a 3D raccoon. Five weeks from nothing to a working app in testers' hands.
+A raccoon guards your screen time, and you have to negotiate with him for more.
 
-### My second brain
-
-**Every model I open reads the same file about me first.**
+### My "second brain"
 
 `Python` `React` `Notion` `Google Calendar`
 
 The most complex thing I have built, made with Claude's help. It holds my live tasks and calendar, and an evidence bank that every factual claim has to trace back to before it can be written down.
 
-<details>
-<summary><b>Why there is an evidence bank in it</b></summary>
-
-The problem I kept running into was models writing confident, wrong things about me. So nothing can be claimed in here unless it points at a sourced entry, and anything I have not backed up comes back flagged instead of quietly smoothed over.
-
-Every claim on this page traces to one of those entries.
-
-</details>
 
 ---
 
@@ -97,15 +63,13 @@ Every claim on this page traces to one of those entries.
 
 Applied agentic systems are the job I want. Give a model real tools over real software and see how much of the work it can take off you. Robotics is where I want to go next. Everything I build stops at the edge of a screen right now, and I would like it to stop doing that.
 
-The longer version is a personal AI that knows your context, your deadlines and how you write, so you are not re-explaining yourself to a fresh chat window every morning. The second brain above is my first proper attempt at it. Ikiru comes from the same place, software that gives you your attention back instead of farming it. Long term I think the interesting version is a companion, something that sticks around for years and gets better at you.
-
 I also take photographs.
 
 ---
 
 ## Away from the keyboard
 
-President of the Computer Science Society at Sheffield. Before that, technical events coordinator, where I ran five workshops on prompt engineering, GitHub, Docker, R and hackathon prep, with every exercise written from scratch rather than borrowed. Currently rebuilding the society site around a resource repository that future cohorts contribute to.
+**President of the Computer Science Society at Sheffield**. Before that, technical events coordinator, where I ran five workshops on prompt engineering, GitHub, Docker, R and hackathon prep, with every exercise written from scratch rather than borrowed. Plus a few more things, check out linkedin 👋
 
 ---
 
